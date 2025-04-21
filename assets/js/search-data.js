@@ -448,8 +448,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-release-v1-of-the-code-here-https-github-com-shinfxh-ai-scientists",
-          title: 'Release v1 of the code here https://github.com/shinfxh/ai-scientists.',
+            },},{id: "news-release-v1-of-the-code-here",
+          title: 'Release v1 of the code here.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
