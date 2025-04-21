@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Xinghong Fu",
-    "label": "Undergraduate Student",
+    "label": "Math and CS Student",
     "image": "",
     "email": "fxh@mit.edu",
     "phone": "",
@@ -21,31 +21,31 @@
       "name": "Preferred Networks",
       "position": "Machine Learning Research Intern",
       "url": "",
-      "startDate": "2024-01-01",
-      "endDate": "2024-12-31",
+      "startDate": "2024-06-01",
+      "endDate": "2024-08-03",
       "location": "Tokyo, Japan",
       "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": ["Developed a large time series model for predicting stock prices", "Published at IEEE-SSCI 2025, Trondheim, Norway."]
     },
     {
       "name": "LINE",
       "position": "Software Engineering Intern",
       "url": "",
-      "startDate": "2023-01-01",
-      "endDate": "2023-12-31",
+      "startDate": "2023-07-16",
+      "endDate": "2023-09-04",
       "location": "Tokyo, Japan",
       "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": ["Anomaly detection in messaging servers.", "Blog here: https://engineering.linecorp.com/en/blog/reliable-and-consistent-metric-anomaly-detection-algorithms."]
     },
     {
       "name": "Alphalab Capital",
       "position": "Quantitative Research Intern",
       "url": "",
-      "startDate": "2023-01-01",
-      "endDate": "2023-12-31",
+      "startDate": "2023-05-30",
+      "endDate": "2023-07-15",
       "location": "Singapore",
       "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": ["Crypto trading.", "Statistical arbitrage on 18 coins."]
     }
   ],
   "volunteer": [],
@@ -55,8 +55,8 @@
       "location": "Cambridge, MA",
       "url": "",
       "area": "",
-      "studyType": "PhD",
-      "startDate": "2022-01-01",
+      "studyType": "Undergraduate",
+      "startDate": "2022-09-01",
       "endDate": "",
       "score": "",
       "courses": []
