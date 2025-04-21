@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-at-ieee-ssci-conference-in-oslo-to-present-work-on-financial-fine-tuning-a-large-time-series-model",
+          title: 'At IEEE-SSCI conference in Oslo to present work on “Financial fine-tuning a large...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-do-two-ai-scientists-agree",
+          title: 'Do Two AI Scientists Agree?',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-release-v1-of-the-code-here-https-github-com-shinfxh-ai-scientists",
+          title: 'Release v1 of the code here https://github.com/shinfxh/ai-scientists.',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
