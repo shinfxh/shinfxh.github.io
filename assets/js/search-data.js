@@ -37,7 +37,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-a-post-with-plotly-js",
+        },{id: "post-i-don-39-t-really-want-to-die-but-i-still-want-to-eat-tteokbokki",
+        
+          title: "I don&#39;t really want to die but I still want to eat tteokbokki...",
+        
+        description: "Late night cravings",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/spice/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
@@ -189,6 +200,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2023/tikzjax/";
+          
+        },
+      },{id: "post-a-meditation-about-running",
+        
+          title: "A meditation about running",
+        
+        description: "What I think about when running",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2023/running/";
           
         },
       },{id: "post-a-post-with-bibliography",
