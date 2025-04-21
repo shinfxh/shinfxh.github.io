@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Release v1 of the code here https://github.com/shinfxh/ai-scientists.
+Release v1 of the code <a href="https://github.com/shinfxh/ai-scientists">here</a>.
