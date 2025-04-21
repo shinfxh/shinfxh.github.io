@@ -37,4 +37,4 @@ Generative modelling is the main area of my interest now, with image, video and 
 
 In a past life, I dabbled in some physics competitions, which was a catalyst for me to eventually explore scientific research.
 
-In my free time, I like to eat (and sometimes cook) very spicy food. Here's a list of my top favorites. 
+In my free time, I like to eat (and sometimes cook) very very spicy food. Here's a list of my top favorites. 
