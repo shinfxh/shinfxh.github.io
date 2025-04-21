@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+nav_order: 1
 
 profile:
   align: right
@@ -33,3 +34,5 @@ I enjoy working with anything I don't understand. Right now, this happens to be 
 Generative modelling is the main area of my interest now, with image, video and sequence generation being some modes I am interested in. Here is a quote to succintly summarize why I believe generative modelling is the key to the next breakthroughs in AI:
 
 "What I cannot create, I cannot understand" - Richard Feynman
+
+In a past life, I dabbled in some physics competitions, which was a catalyst for me to eventually explore scientific research.
